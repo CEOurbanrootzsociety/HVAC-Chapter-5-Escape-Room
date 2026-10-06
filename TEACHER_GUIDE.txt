@@ -1,0 +1,38 @@
+HVAC CHAPTER 5 ESCAPE ROOM — TEACHER GUIDE
+
+WHAT YOU GET
+- 5 themed rooms
+- 25 total questions (5 per room)
+- Every question starts as short answer.
+- If the first response is incorrect, that same question automatically becomes multiple choice.
+- Each room includes a visual background/clue board.
+- Final 5-digit escape code: 47295
+- First-try score and elapsed time are shown at the end.
+- The game is self-contained in one HTML file and runs offline.
+
+TOPICS
+Room 1 — Loads: loads, motors, solenoids, heaters, signal lights
+Room 2 — Relays & Contactors: current range, energized/de-energized, NO contacts, poles
+Room 3 — Switches: disconnects, push-buttons, poles, heating/cooling thermostats
+Room 4 — Safety & Control: fuses, thermal/magnetic overloads, magnetic starters, 24-V control circuits
+Room 5 — Wiring Diagrams: schematic, pictorial, factual, installation, L1/L2
+
+HOW TO RUN IT IN CLASS
+1. Open the GitHub Pages student link once Pages is enabled.
+2. Students can work individually, in pairs, or in teams.
+3. For a class competition, rank teams by:
+   a) number of First-Try Keys, then
+   b) fastest escape time.
+
+CLASSROOM NOTES
+- No student data is transmitted by the game.
+- Refreshing the page restarts the game.
+- Answers are stored inside the HTML/JavaScript, so this is best for review rather than a high-stakes assessment.
+- The background clue graphics are original vector illustrations created for this game.
+
+ANSWER KEY
+Room 1: Loads; Motor; Solenoid; Heater; Signal light
+Room 2: Contactor; Relay; De-energized; Close; One set of contacts
+Room 3: Disconnect switch; Push-button switch; One; Closes; Opens
+Room 4: Fuse; Heat; Magnetism; Overload protection; 24 volts
+Room 5: Schematic diagram; Pictorial diagram; Factual diagram; Installation diagram; L1 and L2
